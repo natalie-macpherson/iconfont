@@ -21,8 +21,6 @@ html {
 .bg {
 	background-color: #0d121a;
 	background-image: url(../img/cork-board.jpg);
-	xbackground-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  xpadding-bottom: 6em;
 }
