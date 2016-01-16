@@ -36,29 +36,29 @@ html {
  }
 
  .btn-lightbulb:hover {
- 	background-color: red;
+ 	background-color: #0c2335;
  }
 
  .btn-hammer {
-  background-color: #3f4e5d;
+  background-color: #c65c4b;
   border-radius: 50%;
   padding: 40px 15px 40px 15px;
   text-decoration: none;
  }
 
  .btn-hammer:hover {
- 	background-color: red;
+ 	background-color: #56130b;
  }
 
  .btn-phone {
-  background-color: #3f4e5d;
+  background-color: #37ba98;
   border-radius: 50%;
   padding: 40px 15px 40px 15px;
   text-decoration: none;
  }
 
  .btn-phone:hover {
- 	background-color: red;
+ 	background-color: #0e4f3c;
  }
 
  .btn-text-color {
