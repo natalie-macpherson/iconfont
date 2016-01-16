@@ -22,5 +22,60 @@ html {
 	background-color: #0d121a;
 	background-image: url(../img/cork-board.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
 }
+
+.icon-size {
+	ifont-size: 100px;
+}
+
+.btn-lightbulb {
+  background-color: #3f4e5d;
+  border-radius: 50%;
+  padding: 40px 15px 40px 15px;
+  text-decoration: none;
+ }
+
+ .btn-lightbulb:hover {
+ 	background-color: red;
+ }
+
+ .btn-hammer {
+  background-color: #3f4e5d;
+  border-radius: 50%;
+  padding: 40px 15px 40px 15px;
+  text-decoration: none;
+ }
+
+ .btn-hammer:hover {
+ 	background-color: red;
+ }
+
+ .btn-phone {
+  background-color: #3f4e5d;
+  border-radius: 50%;
+  padding: 40px 15px 40px 15px;
+  text-decoration: none;
+ }
+
+ .btn-phone:hover {
+ 	background-color: red;
+ }
+
+ .btn-text-color {
+ 	color: #fff;
+ 	font-family: Arial;
+ }
+
+ .icon-hammer {
+ 	color: #fff;
+ 	font-size: 5em;
+ }
+
+ .icon-lightbulb {
+ 	color: #fff;
+ 	font-size: 5em;
+ }
+ .icon-phone {
+ 	color: #fff;
+ 	font-size: 5em;
+ }
