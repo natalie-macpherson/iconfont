@@ -89,3 +89,32 @@ html {
  	color: #fff;
  	font-size: 5em;
  }
+
+ .design {
+	padding-top: 1em;
+}
+
+.design-title h1 {
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: 700;
+	font-size: 3.5em;
+	line-height: 1.3154;
+	text-transform: uppercase;
+}
+
+
+@media only screen and (min-width: 25em) {
+}
+
+@media only screen and (min-width: 38em) {
+}
+
+@media only screen and (min-width: 60em) {
+}
+
+@media only screen and (min-width: 90em) {
+}
+
+@media only screen and (min-width: 120em) {
+}
