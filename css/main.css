@@ -33,6 +33,9 @@ html {
   border-radius: 50%;
   padding: 40px 15px 40px 15px;
   text-decoration: none;
+  box-shadow: 5px 5px 5px #141516;
+  -webkit-transition: all 500ms linear;
+	transition: all 500ms linear;
  }
 
  .btn-lightbulb:hover {
@@ -44,6 +47,9 @@ html {
   border-radius: 50%;
   padding: 40px 15px 40px 15px;
   text-decoration: none;
+  box-shadow: 5px 5px 5px #141516;
+  -webkit-transition: all 500ms linear;
+	transition: all 500ms linear;
  }
 
  .btn-hammer:hover {
@@ -55,6 +61,9 @@ html {
   border-radius: 50%;
   padding: 40px 15px 40px 15px;
   text-decoration: none;
+  box-shadow: 5px 5px 5px #141516;
+  -webkit-transition: all 500ms linear;
+	transition: all 500ms linear;
  }
 
  .btn-phone:hover {
