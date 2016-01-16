@@ -37,6 +37,10 @@ html {
   box-shadow: 5px 5px 5px #141516;
   -webkit-transition: all 500ms linear;
 	transition: all 500ms linear;
+	height: 222px;
+	width: 222px;
+	margin: 0 auto;
+	vertical-align: center;
  }
 
  .btn-lightbulb:hover {
@@ -51,6 +55,9 @@ html {
   box-shadow: 5px 5px 5px #141516;
   -webkit-transition: all 500ms linear;
 	transition: all 500ms linear;
+	height: 222px;
+	width: 222px;
+	margin: 0 auto;
  }
 
  .btn-hammer:hover {
@@ -65,6 +72,9 @@ html {
   box-shadow: 5px 5px 5px #141516;
   -webkit-transition: all 500ms linear;
 	transition: all 500ms linear;
+	height: 222px;
+	width: 222px;
+	margin: 0 auto;
  }
 
  .btn-phone:hover {
@@ -74,6 +84,7 @@ html {
  .btn-text-color {
  	color: #fff;
  	font-family: Arial;
+ 	text-transform: uppercase;
  }
 
  .icon-hammer {
@@ -108,12 +119,52 @@ html {
 }
 
 @media only screen and (min-width: 38em) {
+	.dbg {
+		background-size: 120% 200%;
+	}
 }
 
 @media only screen and (min-width: 60em) {
+	.design-title h1 {
+		margin-bottom: 1.5em;
+	}
+
+	.bg {
+		background-size: 120% 200%;
+	}
+
+	.btn-phone {
+		height: 262px;
+		width: 262px;
+ }
+
+ .btn-hammer {
+		height: 262px;
+		width: 262px;
+ }
+
+ .btn-lightbulb {
+		height: 262px;
+		width: 262px;
+ }
 }
 
 @media only screen and (min-width: 90em) {
+
+	.btn-phone {
+		height: 280px;
+		width: 280px;
+ }
+
+ .btn-hammer {
+		height: 280px;
+		width: 280px;
+ }
+
+ .btn-lightbulb {
+		height: 280px;
+		width: 280px;
+ }
 }
 
 @media only screen and (min-width: 120em) {
