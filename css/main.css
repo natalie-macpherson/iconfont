@@ -17,6 +17,9 @@ html {
 	box-sizing: inherit;
 }
 
+.link {
+	text-decoration: none
+}
 
 .bg {
 	background-color: #efb882;
